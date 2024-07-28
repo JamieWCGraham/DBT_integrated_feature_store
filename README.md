@@ -26,7 +26,6 @@ This layer modularizes the aggregations that we are doing in creating metrics ac
 3. ***Feature Store Layer***
 This is the final layer where we stitch everything together on the client grain
 
-Why do it this way? 
 
 ***Modularity***: By breaking down the process into distinct layers, we can manage complexity and make the dbt models more maintainable and reusable. 
 
