@@ -1,3 +1,4 @@
 *.sql linguist-language=SQL
+*.sql linguist-detectable=true
 *.psql linguist-language=SQL
 *.pgsql linguist-language=SQL
