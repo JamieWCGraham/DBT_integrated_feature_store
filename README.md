@@ -10,7 +10,7 @@ High-Level Goal: Chris Johnson and I are trying to provide I&A with DBT models t
 
 Attached is a rough schematic of the current DAG design approach for this project.
 
-<img width="827" alt="proposed_lineage_diagram" src="https://github.com/user-attachments/assets/abcc694e-7af3-425d-baee-653b8da14513">
+<img width="827" alt="proposed_lineage_diagram" src="./proposed_lineage_diagram.png">
 
 
 ## Impact
