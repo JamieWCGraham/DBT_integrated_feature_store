@@ -1,5 +1,5 @@
 # integrated_feature_store
-DBT modelling for integrated feature store.
+DBT modelling for integrated feature store for pet owner clients and veternarian clinics.
 
 ## Overview
 _Summarize the goal of your work and what motivated it._
