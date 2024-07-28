@@ -12,7 +12,7 @@ Attached is a rough schematic of the current DAG design approach for this projec
 
 
 ## Impact
-- Addition and integration of new/pre-existing features on a client grain (client/clinic comparative revenue quantiles across channels, engagement, average us income by zipcode, etc.). The breadth of features should allow for more useful and detailed segmentation of both clients (pet owners) and clinics.
+- Addition and integration of new/pre-existing features on a client grain (client/clinic comparative revenue quantiles across channels, engagement, average us income by zipcode, etc.). Increased breadth of features and a standardized DBT feature store allow for more useful and detailed segmentation of both clients (pet owners) and clinics.
 - A standardized environment to build and store features that analytics folks can both add to and use for analytics projects. Whenever we spin up a customer churn, RFM, client channel analysis--we should be using standardized features and not re-inventing the wheel each time. Currently, we lack standardization for building out analyses looking at different client types / practice types across multiple purchasing channels, looking at financial metrics at client, clinic and global (all clinic) scales. 
 
 ## Design
