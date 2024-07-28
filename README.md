@@ -4,7 +4,7 @@ DBT modelling for integrated feature store for pet owner clients and veternarian
 ## Overview
 _Summarize the goal of your work and what motivated it._
 
-High-Level Goal: Design and implement DBT modelling that serves as a standardized feature store for analyses that look at pet owner clients with complete PIMS integration status. 
+Design and implement DBT modelling that serves as a standardized feature store for analyses that look at pet owner clients with complete PIMS integration status. 
 
 Attached is a rough schematic of the current DAG design approach for this project.
 
