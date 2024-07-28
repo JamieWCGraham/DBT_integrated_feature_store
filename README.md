@@ -1,12 +1,10 @@
 # integrated_feature_store
-DBT modelling for integrated feature store at client granularity. 
-
+DBT modelling for integrated feature store.
 
 ## Overview
 _Summarize the goal of your work and what motivated it._
 
-High-Level Goal: Chris Johnson and I are trying to provide I&A with DBT models that serve as a standardized feature store for future analyses that look at clients from clinics with complete integration status. This is the first pass of this, building stuff out at a client grain first. (then we will do clinics) 
-
+High-Level Goal: Design and implement DBT modelling that serves as a standardized feature store for analyses that look at pet owner clients with complete PIMS integration status. 
 
 Attached is a rough schematic of the current DAG design approach for this project.
 
